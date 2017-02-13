@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dat",
+				"dataSource"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"padd",
+				"paddingLeft"
+			],
+			[
+				"hand",
+				"handleText"
+			],
+			[
+				"han",
+				"handleBox"
+			],
+			[
+				"th",
+				"thumb"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"v",
+				"View"
+			],
+			[
+				"T",
+				"Text"
+			],
+			[
+				"rend",
+				"renderRow"
+			],
+			[
+				"hea",
+				"headerTitle"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"a",
+				"App"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"e",
+				"Edit"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"Tab",
+				"TabBarIOS"
+			],
+			[
+				"S",
+				"StyleSheet"
+			],
+			[
+				"reac",
+				"react-native"
+			],
+			[
+				"sele",
+				"selectedIcon"
+			],
+			[
+				"rea",
+				"react-native"
+			],
+			[
+				"com",
+				"Component"
+			],
+			[
+				"tim",
+				"times"
+			],
+			[
+				"time",
+				"timesPlus"
+			],
+			[
+				"pr",
+				"props"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wzcaptain/dogSay/index.js",
+		"/Users/wzcaptain/dogSay/package.json",
+		"/Users/wzcaptain/dogSay/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactCompositeComponent.js",
+		"/Users/wzcaptain/test01/index.ios.js",
+		"/Users/wzcaptain/Desktop/16123009552358606131.sql",
+		"/Users/wzcaptain/Desktop/16061616390395842808.sql",
+		"/Users/wzcaptain/Desktop/16052314064171863934.sql",
+		"/Users/wzcaptain/Desktop/16052311342538644839.sql",
+		"/Users/wzcaptain/Downloads/us.sitesucker.mac.sitesucker/study.163.com/category/toefl.html",
+		"/private/etc/hosts",
+		"/Users/wzcaptain/.ShadowsocksX/gfwlist.js",
+		"/Users/wzcaptain/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/wzcaptain/Downloads/example-gui-config.json",
+		"/Users/wzcaptain/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/wzcaptain/Downloads/us.sitesucker.mac.sitesucker/www.zimuzu.tv/gresource/list/31892.html",
+		"/Users/wzcaptain/PhpstormProjects/uni/Public/core/js/common.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"/Users/wzcaptain/dogSay/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			": function()",
+			":function()",
+			":function ()",
+			": function ()",
+			"listview",
+			"List",
+			"list",
+			"List",
+			"  render:function(){\n    return (\n      <View style={styles.container}>\n        <Text>列表页面</Text>\n      </View>\n      )\n  }\n})",
+			"greenTab",
+			"redTab",
+			"blueTab",
+			"videocam",
+			"Icon.TabBarItem",
+			"Icon.TabBarItemIOS",
+			"TabBarIOS.Item",
+			"Icon.TabBarItemIOS",
+			"Icon.TabBarItem",
+			"TabBarIOS.Item",
+			"TabBarIOS.item",
+			"Icon.TabBarItem",
+			"icon",
+			"Icon",
+			"icon",
+			"TabBarIOS.Item",
+			"reactNative",
+			"\n    ",
+			"Component",
+			"TabBarIOS.Item",
+			"selectedTab",
+			".\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"()"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

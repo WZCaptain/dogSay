@@ -33,6 +33,8 @@ var Edit = require('./app/edit/index')
 
 var Account = require('./app/account/index')
 
+var Login = require('.app/account/login')
+
 var dogSay = React.createClass({
 
   getInitialState() {

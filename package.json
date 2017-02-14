@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "packager:kill": "react-native-kill-packager",
+    "packager:restart": "react-native-kill-packager; npm start"
   },
   "dependencies": {
     "lodash": "^4.17.4",
@@ -20,6 +20,7 @@
     "babel-jest": "18.0.0",
     "babel-preset-react-native": "1.9.1",
     "jest": "18.1.0",
+    "react-native-kill-packager": "^1.0.0",
     "react-test-renderer": "15.4.2"
   },
   "jest": {

@@ -32,6 +32,7 @@
 		8130F61F9C9042AD86135490 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ACBE2B132DC74B99BDD735A0 /* MaterialIcons.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		900F412DF6B340F28B4A0EA7 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8BB8DF610974681BAAAC629 /* Zocial.ttf */; };
+		A65A01D01E52FF4700C606C2 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A6DB1F471E2270390039A17F /* libRNVectorIcons.a */; };
 		CA26C9DF3E5D4353BED0C07E /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52CFDF227CF0464F8E2CAA30 /* EvilIcons.ttf */; };
 		E6F9CF5436054278A6F4FDFA /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3E2A21AD512847429E3A7F98 /* Ionicons.ttf */; };
 /* End PBXBuildFile section */
@@ -285,6 +286,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A65A01D01E52FF4700C606C2 /* libRNVectorIcons.a in Frameworks */,
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
